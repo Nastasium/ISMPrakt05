@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ISMPrakt05Console", "ISMPrakt05Console\ISMPrakt05Console.csproj", "{821451C7-F306-4BFA-A580-F8861C8A7150}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ISMPrakt05WindowsForm", "ISMPrakt05WindowsForm\ISMPrakt05WindowsForm.csproj", "{D311BE5D-8E82-49DA-8C5F-C2886235D4BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{821451C7-F306-4BFA-A580-F8861C8A7150}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{821451C7-F306-4BFA-A580-F8861C8A7150}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{821451C7-F306-4BFA-A580-F8861C8A7150}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{821451C7-F306-4BFA-A580-F8861C8A7150}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D311BE5D-8E82-49DA-8C5F-C2886235D4BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D311BE5D-8E82-49DA-8C5F-C2886235D4BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D311BE5D-8E82-49DA-8C5F-C2886235D4BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D311BE5D-8E82-49DA-8C5F-C2886235D4BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9E8791BA-D3E2-47F2-83DE-3E4384947D32}
+	EndGlobalSection
+EndGlobal
